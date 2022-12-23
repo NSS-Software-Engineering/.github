@@ -3,7 +3,7 @@ name: SE Issue template
 about: Guide reporter to more complete issue reports faster.
 title: "[Issue]: "
 labels: unit0, unit1, unit2, unit3, unit4, unit5, unit6
-assignees: cpenner461, gcziprusz, askingalot, rtillies
+assignees: cpenner461, gcziprusz, askingalot, probablyjody
 
 ---
 
